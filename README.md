@@ -3,3 +3,7 @@ Cloud forecasts can help in weather forecasts and assist meteorologists on a mor
 
 ## Methodology
 ### Deep Feedforward Neural Network
+### Convolutional Neural Network
+### Transfer Learning with MobileNetV2
+### Long Short Term Memory
+### CNN LSTM
