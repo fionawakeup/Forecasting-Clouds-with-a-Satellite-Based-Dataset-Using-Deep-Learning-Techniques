@@ -6,4 +6,4 @@ Cloud forecasts can help in weather forecasts and assist meteorologists on a mor
 ### Convolutional Neural Network
 ### Transfer Learning with MobileNetV2
 ### Long Short Term Memory
-### CNN LSTM
+### Convolutional Neural Network Long Short Term Memory (CNN LSTM)
