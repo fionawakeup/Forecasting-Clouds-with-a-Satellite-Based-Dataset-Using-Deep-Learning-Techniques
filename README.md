@@ -7,3 +7,7 @@ Cloud forecasts can help in weather forecasts and assist meteorologists on a mor
 ### Transfer Learning with MobileNetV2
 ### Long Short Term Memory
 ### Convolutional Neural Network Long Short Term Memory (CNN LSTM)
+
+## Reference 
+M. Sandler, A. Howard, M. Zhu, A. Zhmoginov and L. Chen, ”MobileNetV2: Inverted Residuals and Linear Bottlenecks,” 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2018, pp. 4510-4520, doi: 10.1109/CVPR.2018.00474.
+Nielsen, A. & Iosifidis, A. & Karstoft, Henrik. (2020). CloudCast: A Satellite-Based Dataset and Baseline for Forecasting Clouds.
